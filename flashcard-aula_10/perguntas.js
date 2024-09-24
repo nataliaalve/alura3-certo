@@ -1,23 +1,35 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Cores',
+    'Quais são as cores primárias?',
+    'As cores primárias são Vermelho, verde e azul'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'História',
+    'Qual foi a principal causa da Revolução Industrial?',
+    'A insatisfação popular com o regime absolutista, desigualdade social e crise financeira'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Generos textuais',
+    'O que é um conto?',
+    'É uma narrativa que conta uma história, geralmente focando em um personagem ou em uma situação'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Estilos musicais',
+    'Qual o tipo de música mais ouvida no Brasil?',
+    'O estilo de música mais ouvida é Sertanejo'
 )
+
+criaCartao(
+    'Espécies',
+    'Qual animal está em ameaça de extinção?',
+    'O Rinoceronte é um dos animais em risco de extinção'
+)
+
+criaCartao( 
+    'Cultura',
+    'Qual a dança mais famosa do Brasil?',
+    'A dança mais famosa é o Samba'
+    )
